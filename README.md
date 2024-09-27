@@ -5,6 +5,7 @@
 ## My interests
 
 * Data Engineering and artificial intelligence
+* Web and Mobile development
 * Movies and Theatre
 * Nature
 
