@@ -11,7 +11,7 @@
 ## Technical Background
 
 - I have 5 years worth of experience as a web and mobile developer.
-- I am proficient  in Javascript , html, CSS and Java and React framework.
+- I am proficient  in Javascript , html, CSS and Java and React JS and React native.
 - I would now like to get into another niche so I am learning Python so that I can feel more confident to do awesome stuff with the language.
 
   My Fovirite meme at the moment :
